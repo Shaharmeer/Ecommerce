@@ -1,4 +1,3 @@
-```markdown
 # Online Ecommerce Store
 
 Welcome to our online ecommerce store! Here you can browse, shop, and make purchases from the comfort of your home. To get started, follow these steps:
@@ -55,4 +54,3 @@ The server should now be running locally at http://127.0.0.1:8000/. You can visi
 ## Conclusion
 
 That's it! You're now ready to use our online ecommerce store. Happy shopping!
-```
